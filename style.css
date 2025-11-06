@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+    border-left: 5px solid red;
+    border-bottom: 5px solid red;
+}
+
+a{
+    color: red;
+    text-decoration: underline;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
+a:active{
+    color: orange;
+}
+.intro{
+    text-indent: 40px;
+    
+}
+img{
+    border: 5px solid gray;
+}
+img:hover{
+    border: 5px solid pink;
+}
+.false{
+    text-decoration: line-through;
+}
